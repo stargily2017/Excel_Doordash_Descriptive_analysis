@@ -1,5 +1,5 @@
 # Descriptive marketing analysis for DoorDash
-Using Excel to cover the customers' demographic data and the products they purchased through DoorDash for 2014-2016. The data shows the performance of 6 different campaigns.
+
 ### Executive Summary
 
 Using Excel to cover the customers' demographic data and the products they purchased through DoorDash for 2014-2016. The data shows the performance of 6 different campaigns. Each campaign provides the number of customers and what they were buying on DoorDash, by store, website, catalogue, or deal. DoorDash, a leading global commerce platform, has made a significant impact by connecting consumers to local businesses and providing flexible earnings opportunities for individuals through its Dasher program. 
@@ -39,6 +39,8 @@ Created data visualizations like a bar chart, scatter plot, pie chart, line char
 EXCEL: Aggregate functions like SUM, AVERAGE, MIN, MAX, and SUBTOTAL(for filter), VLOOKUP, and XLOOKUP.
 
 ### Descriptive Analysis and Data Visualizations
+
+
 
 
 
