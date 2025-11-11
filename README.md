@@ -40,8 +40,29 @@ EXCEL: Aggregate functions like SUM, AVERAGE, MIN, MAX, and SUBTOTAL(for filter)
 
 ### Descriptive Analysis and Data Visualizations
 
+1. Using the aggregate functions, like SUM, AVERAGE, MIN, MAX, and SUBTOTAL (for filtering) to extract the data to find how many customers use DoorDash for their purchases, who is the oldest customer, how much total spend, and how long customers have used DoorDash in days.
 
+https://1drv.ms/i/c/f07e9753fe134dc3/ESAsaAfGk-9EiwLNgMVrT6gBr1P2a53XugWmSi055Bd-gw?e=GgwKrI
 
+2.A scatter plot diagram helps in this situation. Campaign 6 reveals a positive relationship between income and spending, with customer income directly proportional to DoorDash expenditures.
+
+3. bar chart shows that age groups 51-65 and 36-50 are spending the most.
+
+4. A donut pie chart shows which top products customers bought through DoorDash by store, website, catalogue, and deals. Clearly, customers' popular items were wines and meat products.
+
+5. Most of the customers joined in January, March, and July, and they spent more in January and July and less in November and August.
+
+#### Results and Recommendations
+
+Working on this project taught me valuable lessons about the intersection of data and business strategy. The challenge was to ensure that the insights were both actionable and relevant, which required carefully interpreting the data and considering the real-world implications. 
+
+DoorDash should target customers aged 36-65, offer deals and incentives at stores, and deliver products promptly. Moving forward, businesses should focus on their higher-income customers, as they offer the most significant potential for increased revenue.
+
+#### Next steps
+To boost DoorDash's marketing, 
+
+ Consider offering more deals during the months when sales are typically lower.
+Improving delivery accuracy can lead to better customer satisfaction, encouraging repeat business, and attracting new users. 
 
 
 
